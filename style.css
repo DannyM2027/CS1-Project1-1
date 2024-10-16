@@ -1,1 +1,35 @@
 
+/* General page styles */
+
+body {
+    background-color: #00ffff;
+}
+
+img {
+    border-radius: 20%;
+    border-width: 100px;
+    border-style: initial;
+    border-color: firebrick;
+}
+
+a {
+    font-family: fantasy;
+    font-style: italic;
+}
+
+h3 {
+    ;
+
+}
+
+hr {
+    border-style: dashed;
+    border-radius: 14%;
+    border-width: 2px;
+}
+
+ol {
+    background-color: rgb(250, 193, 196);
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+
+}
