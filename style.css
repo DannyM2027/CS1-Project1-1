@@ -2,14 +2,47 @@
 /* General page styles */
 
 body {
-    background-color: #00ffff;
+    background-color: #9c5656;
 }
 
 img {
     border-radius: 20%;
-    border-width: 100px;
-    border-style: initial;
+    border-width: 10px;
+    border-style: solid;
     border-color: firebrick;
+
+}
+
+li {
+    text-shadow: 1px 1px 2px red, 0 0 1em blue, 0 0 0.2em blue;
+    background-color: aliceblue;
+}
+
+p {
+    text-shadow: 1px 1px 2px red, 0 0 1em blue, 0 0 0.2em blue;
+    font-family: ;font-family: "Dancing Script", cursive;
+    font-optical-sizing: auto;
+    font-weight: <weight>;
+    font-style: normal;
+    background-color: #ff00ff;
+
+    
+  }
+
+h1 {
+    margin: 7%;
+    padding: 5%;
+    border-style: solid;
+    text-align: center;
+    background-image: radial-gradient(rgb(128, 149, 167), rgb(123, 137, 218), rgb(21, 31, 21));
+}
+
+
+h2 {
+    margin: 2px;
+    padding: 2px;
+    border-style: double;
+    background-image: linear-gradient(#38fff5, rgb(44, 44, 35));
 }
 
 a {
@@ -17,8 +50,16 @@ a {
     font-style: italic;
 }
 
+
+.border {
+
+}
+
+
+
 h3 {
     ;
+
 
 }
 
@@ -31,5 +72,5 @@ hr {
 ol {
     background-color: rgb(250, 193, 196);
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-
+    text-shadow: 1px 1px 2px red, 0 0 1em blue, 0 0 0.2em blue;
 }
